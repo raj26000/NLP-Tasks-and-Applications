@@ -13,3 +13,5 @@ IV. https://www.kaggle.com/crowdflower/twitter-airline-sentiment
 V. https://www.kaggle.com/tmdb/tmdb-movie-metadata
 
 VI. https://www.kaggle.com/c/quora-insincere-questions-classification
+
+VII. https://www.kaggle.com/kazanova/sentiment140
