@@ -15,3 +15,5 @@ V. https://www.kaggle.com/tmdb/tmdb-movie-metadata
 VI. https://www.kaggle.com/c/quora-insincere-questions-classification
 
 VII. https://www.kaggle.com/kazanova/sentiment140
+
+VIII. Abstractive Text Summarization: https://www.kaggle.com/sunnysai12345/news-summary
